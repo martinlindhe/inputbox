@@ -3,8 +3,8 @@ package inputbox
 import (
 	"strings"
 
-	ps "github.com/gorillalabs/go-powershell"
-	"github.com/gorillalabs/go-powershell/backend"
+	ps "github.com/bhendo/go-powershell"
+	"github.com/bhendo/go-powershell/backend"
 )
 
 // InputBox displays a dialog box, returning the entered value and a bool for success
